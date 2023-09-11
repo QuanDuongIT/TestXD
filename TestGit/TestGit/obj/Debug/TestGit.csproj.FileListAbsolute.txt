@@ -1,0 +1,10 @@
+E:\TestXD\TestGit\TestGit\bin\Debug\TestGit.exe.config
+E:\TestXD\TestGit\TestGit\bin\Debug\TestGit.exe
+E:\TestXD\TestGit\TestGit\bin\Debug\TestGit.pdb
+E:\TestXD\TestGit\TestGit\obj\Debug\TestGit.csproj.AssemblyReference.cache
+E:\TestXD\TestGit\TestGit\obj\Debug\TestGit.Form1.resources
+E:\TestXD\TestGit\TestGit\obj\Debug\TestGit.Properties.Resources.resources
+E:\TestXD\TestGit\TestGit\obj\Debug\TestGit.csproj.GenerateResource.cache
+E:\TestXD\TestGit\TestGit\obj\Debug\TestGit.csproj.CoreCompileInputs.cache
+E:\TestXD\TestGit\TestGit\obj\Debug\TestGit.exe
+E:\TestXD\TestGit\TestGit\obj\Debug\TestGit.pdb
