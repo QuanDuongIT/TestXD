@@ -11,7 +11,7 @@ namespace TestGit
 
         
         //Hit
-        //Â
+        //
         //Lo
 
         /// <summary>
