@@ -11,7 +11,7 @@ namespace TestGit
 
         
 
-        //Local
+        //Git
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
