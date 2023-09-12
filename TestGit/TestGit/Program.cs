@@ -9,7 +9,7 @@ namespace TestGit
     internal static class Program
     {
 
-        //Git
+        
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
