@@ -12,6 +12,7 @@ namespace TestGit
         
 
         //Lo
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
