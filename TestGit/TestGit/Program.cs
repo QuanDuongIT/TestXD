@@ -10,10 +10,7 @@ namespace TestGit
     {
 
         
-        //Hit
-        //SS
-        //GT
-        //Lo
+        //A1
 
         /// <summary>
         /// The main entry point for the application.
